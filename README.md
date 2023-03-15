@@ -59,11 +59,11 @@ Create dummy variables for all the categorical features. Divide the data to trai
 # Data Modelling & Evaluation-
 Create Linear Regression model using mixed approach (RFE & VIF/p-value). Check the various assumptions. Check the Adjusted R-Square for both train & Test data. Report the final model.
 
-# Data Regularisation =
+# Data Regularisation -
 Lasso and Ridge regression
 
 
-Technologies Used
+# Technologies Used
 Python - version 3.9.12
 
 Libraries Used
