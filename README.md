@@ -1,10 +1,10 @@
-## Advanced-Regression-Assignment
+# Advanced-Regression-Assignment
 Using Ridge and Lasso Regressions
 
-# Problem Statement - Part I 
+## Problem Statement - Part I 
 This assignment contains two parts. 
 
-# Assignment Part-I
+## Assignment Part-I
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
@@ -24,7 +24,7 @@ You are required to model the price of houses with the available independent var
 
 
 
-# Problem Statement - Part II Assignment
+## Problem Statement - Part II Assignment
 
 
 Question 1
@@ -46,31 +46,31 @@ How can you make sure that a model is robust and generalisable? What are the imp
 
 
 
-## Problem Solving Methodology
-# Data Understanding-
+# Problem Solving Methodology
+## Data Understanding-
 Understanding and working with data dictionary and getting good knowledge of all the columns and their domain specific uses.
 
-# Data Visualization-
+## Data Visualization-
 Perform EDA to understand various variables. Check the correlation between the variables.
 
-# Data Preparation-
+## Data Preparation-
 Create dummy variables for all the categorical features. Divide the data to train & Test. Perform Scaling. Divide data into dependent & Independent variables.
 
-# Data Modelling & Evaluation-
+## Data Modelling & Evaluation-
 Create Linear Regression model using mixed approach (RFE & VIF/p-value). Check the various assumptions. Check the Adjusted R-Square for both train & Test data. Report the final model.
 
-# Data Regularisation -
+## Data Regularisation -
 Lasso and Ridge regression
 
 
-# Technologies Used
+## Technologies Used
 Python - version 3.9.12
 
-Libraries Used
+## Libraries Used
 Pandas , Numpy , Matplotlib , Seaborn , sklearn , statsmodels
 
-## Conclusion
-Lasso regression works better with the following predictor variables
+# Conclusion
+## Lasso regression works better with the following predictor variables
 1. LotFrontage
 2. BsmtFullBath
 3. OverallCond
@@ -84,7 +84,7 @@ Lasso regression works better with the following predictor variables
 
 
 # Contributors
-Dhanush Kumar B s
+Dhanush Kumar B S
 
 ## Contact
 Created by [@goudadhanu] - feel free to contact me!
